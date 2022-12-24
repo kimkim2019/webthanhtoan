@@ -365,7 +365,7 @@ input {
 }
 
 .bg-dark {
-  background-color: #3e6b92 !important;
+  background-color: #6fadc8 !important;
 }
 
 .bg-theme {
@@ -5343,7 +5343,7 @@ footer .widget-title {
 footer.bg-dark .f-items .f-item p,
 footer.bg-dark .f-items .f-item a,
 footer.bg-dark .f-items .f-item {
-  color: #adb5bd;
+  color: #ffffff;
 }
 
 footer .f-items .f-item form {
@@ -5467,7 +5467,7 @@ footer .footer-bottom p {
 
 footer.bg-dark .footer-bottom p,
 footer.bg-dark .footer-bottom a {
-  color: #adb5bd;
+  color: #ffffff;
 }
 
 footer.bg-dark .footer-bottom a {
@@ -5475,7 +5475,7 @@ footer.bg-dark .footer-bottom a {
 }
 
 footer.bg-dark .footer-bottom p a {
-  color: #0e9edd;
+  color: #233362;
 }
 
 footer.bg-dark .footer-bottom a:hover {
