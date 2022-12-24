@@ -1,10 +1,4 @@
-/* ===================================================================
-    
-    Author          : Valid Theme
-    Template Name   : Softar - Software Landing Page
-    Version         : 1.2
-    
-* ================================================================= */
+
 
 (function($) {
     "use strict";
@@ -155,7 +149,7 @@
         $(".popup-youtube, .popup-vimeo, .popup-gmaps").magnificPopup({
             type: "iframe",
             mainClass: "mfp-fade",
-            removalDelay: 160,
+            removalDelay: 50,
             preloader: false,
             fixedContentPos: false
         });
